@@ -149,7 +149,7 @@ export function MainSidebar(props: MainSidebarProps) {
         <div className="sidebar-logo" onClick={() => setCollapsed(!collapsed)}>
           <img src={`assets/ui/colyseus-icon.png`} />
           <div>
-            <h1>Pokemon Auto Chess</h1>
+            <h1>NBA Auto Chess</h1>
             <small>v{version}</small>
           </div>
         </div>
